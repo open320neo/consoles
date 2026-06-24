@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="30mm"
+   height="30mm"
+   viewBox="0 0 30 30"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="button-disc.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="5.6301908"
+     inkscape:cx="47.511711"
+     inkscape:cy="61.809628"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="36.766072"
+       y="31.260042"
+       width="114.02811"
+       height="54.172232"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#000000;stroke-width:0.280379"
+       id="path1"
+       cx="15"
+       cy="15"
+       r="12.4"
+       inkscape:label="Black" />
+    <text
+       xml:space="preserve"
+       id="text1"
+       style="font-size:4.93888889px;writing-mode:lr-tb;direction:ltr;white-space:pre;display:inline;fill:#000000"><textPath
+         xlink:href="#path2"
+         id="textPath2"><tspan
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#ffffff;fill-opacity:1;font-size:4.93888889px">PEDAL</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       id="text2"><textPath
+         xlink:href="#path2-5"
+         id="textPath3"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93889px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';stroke-width:0.264583">D I S C</textPath></text>
+    <circle
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.323744;stroke-opacity:1"
+       id="path2"
+       cx="-20.633392"
+       cy="-4.9257579"
+       r="7.3026896"
+       transform="rotate(-148.42677)"
+       inkscape:label="Pedal-Handle" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.490987;stroke-opacity:1"
+       id="path2-5"
+       cx="3.014353"
+       cy="20.997944"
+       transform="matrix(-0.59945305,0.80040992,0.80040992,0.59945305,0,0)"
+       rx="11.075102"
+       ry="11.075131"
+       inkscape:label="Disc-Handle" />
+  </g>
+</svg>
